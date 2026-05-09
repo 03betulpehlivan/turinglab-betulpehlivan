@@ -163,13 +163,14 @@ docs/images/tm.gif
 
 # Kurulum
 
-Repository klonlama:
+Projeyi klonlamak için:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/03betulpehlivan/turinglab-betulpehlivan.git
+cd turinglab-betulpehlivan
 ```
 
-Gerekli paketleri yükleme:
+Gerekli paketleri yüklemek için:
 
 ```bash
 pip install -r requirements.txt
@@ -179,7 +180,7 @@ pip install -r requirements.txt
 
 # Simülatörü Çalıştırma
 
-Ana programı çalıştırma:
+Ana programı çalıştırmak için:
 
 ```bash
 python main.py
@@ -452,10 +453,11 @@ docs/images/tm.gif
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/03betulpehlivan/turinglab-betulpehlivan.git
+cd turinglab-betulpehlivan
 ```
 
-Install required packages:
+Install the required packages:
 
 ```bash
 pip install -r requirements.txt
