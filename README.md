@@ -571,3 +571,18 @@ Initially, I only planned to develop a small simulator, but over time the system
 - MultiTapeTM support
 
 Although debugging was sometimes challenging, the project became a very educational and valuable experience for me.
+
+
+---
+
+## Future Improvements / Gelecek Geliştirmeler
+
+- Better GUI visualization system / Daha gelişmiş görselleştirme sistemi
+- More optimized TM execution / Daha optimize TM çalıştırma sistemi
+- Additional MultiTapeTM examples / Ek MultiTapeTM örnekleri
+- Nondeterministic TM support / Non-deterministic TM desteği
+- Interactive web interface / Etkileşimli web arayüzü
+
+
+
+
