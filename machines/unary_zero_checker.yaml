@@ -1,0 +1,45 @@
+name: "unary_zero_checker"
+
+states:
+  - q0
+  - q_accept
+  - q_reject
+
+input_alphabet:
+  - "0"
+  - "1"
+
+tape_alphabet:
+  - "0"
+  - "1"
+  - "_"
+
+blank_symbol: "_"
+
+start_state: q0
+
+accept_states:
+  - q_accept
+
+reject_states:
+  - q_reject
+
+transitions:
+
+  - state: q0
+    read: "0"
+    next: q0
+    write: "0"
+    move: R
+
+  - state: q0
+    read: "1"
+    next: q_reject
+    write: "1"
+    move: R
+
+  - state: q0
+    read: "_"
+    next: q_accept
+    write: "_"
+    move: R

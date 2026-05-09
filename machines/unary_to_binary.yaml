@@ -1,0 +1,44 @@
+name: "unary_to_binary"
+
+states:
+  - q0
+  - q1
+  - q2
+  - q_accept
+
+input_alphabet:
+  - "1"
+
+tape_alphabet:
+  - "1"
+  - "0"
+  - "_"
+
+blank_symbol: "_"
+
+start_state: q0
+
+accept_states:
+  - q_accept
+
+reject_states: []
+
+transitions:
+
+  - state: q0
+    read: "1"
+    next: q1
+    write: "1"
+    move: R
+
+  - state: q1
+    read: "1"
+    next: q2
+    write: "1"
+    move: R
+
+  - state: q2
+    read: "1"
+    next: q_accept
+    write: "1"
+    move: R

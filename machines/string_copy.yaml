@@ -1,0 +1,65 @@
+name: "string_copy"
+
+states:
+  - q0
+  - q_write_hash
+  - q_copy_a
+  - q_copy_b
+  - q_accept
+
+input_alphabet:
+  - "a"
+  - "b"
+
+tape_alphabet:
+  - "a"
+  - "b"
+  - "#"
+  - "_"
+
+blank_symbol: "_"
+
+start_state: q0
+
+accept_states:
+  - q_accept
+
+reject_states: []
+
+transitions:
+
+  - state: q0
+    read: "a"
+    next: q0
+    write: "a"
+    move: R
+
+  - state: q0
+    read: "b"
+    next: q0
+    write: "b"
+    move: R
+
+  - state: q0
+    read: "_"
+    next: q_write_hash
+    write: "#"
+    move: R
+
+  - state: q_write_hash
+    read: "_"
+    next: q_copy_a
+    write: "a"
+    move: R
+
+  - state: q_copy_a
+    read: "_"
+    next: q_copy_b
+    write: "b"
+    move: R
+
+  - state: q_copy_b
+    read: "_"
+    next: q_accept
+    write: "b"
+    move: R

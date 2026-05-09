@@ -1,0 +1,58 @@
+name: "student_choice"
+
+states:
+  - q0
+  - q_check
+  - q_accept
+  - q_reject
+
+input_alphabet:
+  - "a"
+  - "b"
+
+tape_alphabet:
+  - "a"
+  - "b"
+  - "_"
+
+blank_symbol: "_"
+
+start_state: q0
+
+accept_states:
+  - q_accept
+
+reject_states:
+  - q_reject
+
+transitions:
+
+  - state: q0
+    read: "a"
+    next: q_check
+    write: "a"
+    move: R
+
+  - state: q0
+    read: "b"
+    next: q_check
+    write: "b"
+    move: R
+
+  - state: q_check
+    read: "a"
+    next: q_accept
+    write: "a"
+    move: R
+
+  - state: q_check
+    read: "b"
+    next: q_accept
+    write: "b"
+    move: R
+
+  - state: q_check
+    read: "_"
+    next: q_reject
+    write: "_"
+    move: R
