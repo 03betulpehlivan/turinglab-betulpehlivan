@@ -603,3 +603,17 @@ Initially, I only planned to create a simple simulator, but over time I added:
 which made the project feel more like a real simulator.
 
 Even though the debugging process was sometimes difficult, the project became a very valuable learning experience for me.
+
+---
+
+## Personal Reflection / Kişisel Değerlendirme
+
+This project significantly improved my understanding of automata theory, state transitions, and computational simulation systems.
+
+Working on visualization, debugging, and MultiTapeTM support helped me better understand how theoretical computer science concepts can be transformed into real software applications.
+
+Bu proje otomata teorisi, state transition yapıları ve hesaplama simülasyon sistemleri hakkındaki anlayışımı önemli ölçüde geliştirdi.
+
+Özellikle görselleştirme sistemi, debugging süreçleri ve MultiTapeTM desteği üzerinde çalışmak; teorik bilgisayar bilimi kavramlarının gerçek yazılım sistemlerine nasıl dönüştürülebileceğini daha iyi anlamamı sağladı.
+
+
