@@ -584,5 +584,5 @@ Although debugging was sometimes challenging, the project became a very educatio
 - Interactive web interface / Etkileşimli web arayüzü
 
 
-
+- Command line usability improvements / Komut satırı kullanım geliştirmeleri
 
