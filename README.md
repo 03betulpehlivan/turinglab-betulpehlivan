@@ -251,6 +251,29 @@ Projede fark ettiğim şeylerden biri de Turing makinelerinin teoride göründü
 
 # Projede Bulunan Dosyalar
 
+# Demo Videoları
+
+## 1. Introduction
+- docs/01_intro.mp4
+
+## 2. Features
+- docs/02_features.mp4
+
+## 3. Project Structure
+- docs/03_structure.mp4
+
+## 4. Engine & Bonus
+- docs/04_engine_bonus.mp4
+
+## 5. Tests & Visualization
+- docs/05_tests_visualizer.mp4
+
+## 6. Live Demo
+- docs/06_demo.mp4
+
+## 7. Conclusion
+- docs/07_conclusion.mp4
+
 Projede bulunan ana dosyalar:
 
 - `tm_engine.py`
@@ -537,6 +560,30 @@ One of the things I realized during development was that implementing Turing Mac
 ---
 
 # Project Files
+
+# Demo Videos
+
+## 1. Introduction
+- docs/01_intro.mp4
+
+## 2. Features
+- docs/02_features.mp4
+
+## 3. Project Structure
+- docs/03_structure.mp4
+
+## 4. Engine & Bonus
+- docs/04_engine_bonus.mp4
+
+## 5. Tests & Visualization
+- docs/05_tests_visualizer.mp4
+
+## 6. Live Demo
+- docs/06_demo.mp4
+
+## 7. Conclusion
+- docs/07_conclusion.mp4
+
 
 Main project files:
 
