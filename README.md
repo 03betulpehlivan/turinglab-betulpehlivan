@@ -252,6 +252,7 @@ Projede fark ettiğim şeylerden biri de Turing makinelerinin teoride göründü
 # Projede Bulunan Dosyalar
 
 # Demo Videoları & youtube linkleri
+> **Not:** Videolar 1440p çözünürlükte yüklenmiştir. Daha net görüntü için lütfen YouTube oynatıcısından en yüksek çözünürlüğü seçiniz.
 
 ## 1. Introduction
 - docs/01_intro.mp4
@@ -569,6 +570,7 @@ One of the things I realized during development was that implementing Turing Mac
 # Project Files 
 
 # Demo Videos  & youtube links
+> **Note:** The demo videos were uploaded in 1440p resolution. For the best viewing experience and clearer readability of the code and terminal outputs, please select the highest available video quality on YouTube.
 
 ## 1. Introduction
 - docs/01_intro.mp4
