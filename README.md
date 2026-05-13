@@ -251,28 +251,35 @@ Projede fark ettiğim şeylerden biri de Turing makinelerinin teoride göründü
 
 # Projede Bulunan Dosyalar
 
-# Demo Videoları
+# Demo Videoları & youtube linkleri
 
 ## 1. Introduction
 - docs/01_intro.mp4
+https://youtu.be/jJmw5nL-pkA
 
 ## 2. Features
 - docs/02_features.mp4
+https://youtu.be/6hRwHbEJdCE
 
 ## 3. Project Structure
 - docs/03_structure.mp4
+https://youtu.be/78snHoCKlLI
 
 ## 4. Engine & Bonus
 - docs/04_engine_bonus.mp4
+https://youtu.be/TuAMuoChyaM
 
 ## 5. Tests & Visualization
 - docs/05_tests_visualizer.mp4
+https://youtu.be/kuq8Z1tWT7Q
 
 ## 6. Live Demo
 - docs/06_demo.mp4
+https://youtu.be/NpES6f7PACY
 
 ## 7. Conclusion
 - docs/07_conclusion.mp4
+https://youtu.be/pStzoJ1sTvQ
 
 Projede bulunan ana dosyalar:
 
@@ -559,30 +566,37 @@ One of the things I realized during development was that implementing Turing Mac
 
 ---
 
-# Project Files
+# Project Files 
 
-# Demo Videos
+# Demo Videos  & youtube links
 
 ## 1. Introduction
 - docs/01_intro.mp4
+https://youtu.be/jJmw5nL-pkA
 
 ## 2. Features
 - docs/02_features.mp4
+https://youtu.be/6hRwHbEJdCE
 
 ## 3. Project Structure
 - docs/03_structure.mp4
+https://youtu.be/78snHoCKlLI
 
 ## 4. Engine & Bonus
 - docs/04_engine_bonus.mp4
+https://youtu.be/TuAMuoChyaM
 
 ## 5. Tests & Visualization
 - docs/05_tests_visualizer.mp4
+https://youtu.be/kuq8Z1tWT7Q
 
 ## 6. Live Demo
 - docs/06_demo.mp4
+https://youtu.be/NpES6f7PACY
 
 ## 7. Conclusion
 - docs/07_conclusion.mp4
+https://youtu.be/pStzoJ1sTvQ
 
 
 Main project files:
