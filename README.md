@@ -1,4 +1,6 @@
 # TuringLab Simulator
+Fatma Betül Pehlivan  
+233311036 — Bilgisayar Mühendisliği 3. sınıf
 
 Otomata Teorisi ve Biçimsel Diller dersi kapsamında geliştirdiğim bir Turing Machine simulator projesi.
 
