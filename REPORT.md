@@ -207,6 +207,8 @@ sistemi oluşturdum.
 
 Bu kısmı geliştirirken Turing makinelerinin teorik tarafını daha iyi anlamaya başladım.
 
+MultiTapeTM geliştirirken şeritler arasındaki transition senkronizasyonunun Single Tape sistemlere göre çok daha dikkatli state yönetimi gerektirdiğini fark ettim.
+
 ---
 
 # 5. Visualizer Sistemi (Bonus)
@@ -514,6 +516,8 @@ This structure includes:
 - Real execution loop
 
 Working on this part helped me better understand the theoretical side of Turing Machines.
+
+MultiTapeTM geliştirirken şeritler arasındaki transition senkronizasyonunun Single Tape sistemlere göre çok daha dikkatli state yönetimi gerektirdiğini fark ettim.
 
 ---
 
