@@ -249,6 +249,10 @@ Zamanla test sistemi sayesinde hangi inputlarda hata olduğunu daha hızlı bula
 
 Şu anda tüm testler başarılı şekilde çalışıyor.
 
+Ayrıca debugging sırasında istenmeyen sonsuz çalışmaları azaltmak için step-limit koruma mekanizmaları ekledim.
+
+Bir diğer geliştirme ise transition davranışlarını analiz ederken execution history yapısını daha okunabilir hale getirmek oldu.
+
 ---
 
 # 7. Karmaşıklık Analizi
@@ -550,6 +554,10 @@ Because of this, I continuously tested the machines using pytest.
 Over time, the testing system helped me identify problematic inputs much faster.
 
 Currently, all tests pass successfully.
+
+I also added step-limit protection mechanisms to reduce the risk of unintended infinite execution during debugging.
+
+Another improvement was making execution history easier to inspect while analyzing transition behavior.
 
 ---
 
