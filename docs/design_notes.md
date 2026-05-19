@@ -87,9 +87,9 @@ Genel Deneyim
 
 Bu projede en çok öğrendiğim şey Turing makinelerinin teoride basit görünmesine rağmen pratikte tasarlamasının zor olmasıydı. Özellikle tek şeritli yapıda sürekli kafa hareketlerini düşünmek gerekti. Ayrıca pytest kullanarak test yazmanın hata ayıklamayı çok kolaylaştırdığını fark ettim. MultiTapeTM ve visualizer kısmı projeyi daha eğlenceli hale getirdi çünkü gerçek bir simülatör gibi görünmeye başladı.
 
+Geliştirme sırasında fark ettiğim bir diğer şey ise görece küçük Turing Machine problemlerinde bile transition karmaşıklığının çok hızlı artması oldu.
 
 **********************************************************
-
 
 Design Notes
 TM-1 · Unary to Binary
@@ -179,3 +179,5 @@ The biggest issue was handling edge cases correctly. Empty inputs and very short
 General Experience
 
 The most important thing I learned from this project is that Turing Machines look simple in theory but become much more difficult in practice. Managing tape head movement on a single tape required careful thinking. I also learned that writing pytest tests makes debugging significantly easier. The MultiTapeTM and visualizer parts made the project feel like a real simulator and improved my understanding of automata systems.
+
+Another thing I noticed during development was how quickly transition complexity increases even for relatively small Turing Machine problems.
