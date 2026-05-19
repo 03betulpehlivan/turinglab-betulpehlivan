@@ -97,6 +97,8 @@ Kullanıcı:
 
 İlk başta çok basit bir terminal çıktısı vardı ama sonradan daha okunabilir hale getirmeye çalıştım.
 
+Ayrıca test süreçlerinde simülasyon sonuçlarını daha okunabilir hale getirmek için terminal çıktılarında küçük iyileştirmeler yaptım.
+
 ---
 
 ## tests/
@@ -408,6 +410,8 @@ The user can:
 - Generate GIF animations
 
 Initially, the terminal output was very simple, but later I tried to make it more readable and user-friendly.
+
+I also improved some terminal outputs to make simulation results easier to read during testing.
 
 ---
 
